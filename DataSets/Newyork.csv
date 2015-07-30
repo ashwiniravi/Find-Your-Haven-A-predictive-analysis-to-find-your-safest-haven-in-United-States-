@@ -1,0 +1,329 @@
+state,city,Temp,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+New York,Addison,High,33,36,44,58,69,77,81,79,72,60,49,36
+New York,Addison,Low,14,16,22,32,41,51,56,55,48,37,29,20
+New York,Albany,High,31,35,44,58,69,78,82,80,72,60,48,36
+New York,Albany,Low,15,17,26,37,47,56,61,60,52,40,31,21
+New York,Albion,High,32,35,44,57,69,78,82,80,73,60,48,37
+New York,Albion,Low,18,19,26,37,47,57,62,60,54,43,34,24
+New York,Alcove,High,31,34,43,56,67,75,80,78,71,59,48,36
+New York,Alcove,Low,11,13,22,34,44,54,59,57,48,37,29,19
+New York,Alfred,High,31,35,44,55,68,76,80,79,71,60,47,36
+New York,Alfred,Low,13,14,22,28,42,52,56,54,47,37,28,19
+New York,Angelica,High,33,36,45,58,69,76,80,78,71,60,48,37
+New York,Angelica,Low,12,12,19,29,39,49,53,52,44,34,28,18
+New York,Arcade,High,31,33,43,56,68,76,80,78,71,59,46,35
+New York,Arcade,Low,14,15,23,33,42,51,56,54,48,38,31,20
+New York,Ardsley,High,38,42,51,62,72,81,85,83,76,65,54,43
+New York,Ardsley,Low,22,24,30,39,49,58,63,62,55,44,36,27
+New York,Auburn,High,31,34,43,56,69,78,82,80,72,60,48,36
+New York,Auburn,Low,15,15,23,34,44,55,60,58,50,40,31,22
+New York,Aurora,High,32,34,42,56,68,77,81,80,73,60,48,37
+New York,Aurora,Low,17,18,25,37,47,57,61,59,52,42,34,24
+New York,Avon,High,32,35,43,56,68,77,82,80,73,61,49,37
+New York,Avon,Low,16,17,24,35,45,55,60,58,50,40,32,22
+New York,Bainbridge,High,31,34,44,56,68,76,81,79,71,60,47,36
+New York,Bainbridge,Low,11,12,21,32,42,51,55,55,47,36,28,19
+New York,Batavia,High,32,35,44,58,69,78,81,80,73,61,49,37
+New York,Batavia,Low,17,18,26,37,47,57,62,60,53,42,33,23
+New York,Bath,High,32,35,43,57,69,77,81,80,73,60,48,36
+New York,Bath,Low,13,14,20,32,41,51,55,54,46,36,29,19
+New York,Beacon,High,35,39,47,59,71,80,84,83,75,63,51,40
+New York,Beacon,Low,18,21,28,40,50,59,64,62,54,42,34,24
+New York,Binghamton,High,29,32,41,54,65,74,78,76,68,57,45,33
+New York,Binghamton,Low,16,17,25,36,46,55,60,58,51,40,31,21
+New York,Bloomingburg,High,34,38,46,59,69,78,82,80,73,60,49,37
+New York,Bloomingburg,Low,17,16,26,37,47,56,60,60,52,39,31,21
+New York,Bolivar,High,31,34,44,56,68,76,79,78,70,60,47,36
+New York,Bolivar,Low,11,11,21,31,40,49,53,53,45,34,28,18
+New York,Boonville,High,24,28,36,51,63,71,75,74,66,54,42,30
+New York,Boonville,Low,7,9,18,31,42,51,56,55,47,36,26,14
+New York,Brewerton,High,30,33,42,55,67,76,81,79,71,59,47,37
+New York,Brewerton,Low,12,13,22,34,45,54,58,57,48,40,31,21
+New York,Bridgehampton,High,39,40,47,56,66,75,81,80,74,63,54,44
+New York,Bridgehampton,Low,24,26,31,40,48,58,64,63,56,45,38,29
+New York,Brockport,High,33,35,44,57,70,78,82,80,72,61,48,37
+New York,Brockport,Low,16,17,25,35,46,55,61,59,52,41,32,22
+New York,Buffalo,High,31,33,42,55,67,75,80,78,71,59,48,36
+New York,Buffalo,Low,19,19,26,37,47,57,62,61,53,43,34,24
+New York,Burdett,High,31,33,41,54,66,74,78,77,71,58,47,35
+New York,Burdett,Low,14,16,22,33,42,52,56,54,47,37,30,20
+New York,Cairo,High,32,35,45,57,69,78,82,80,72,61,49,37
+New York,Cairo,Low,12,13,24,34,44,53,58,57,48,37,30,19
+New York,Camden,High,28,31,40,54,67,75,80,78,71,58,46,33
+New York,Camden,Low,9,10,19,33,42,52,56,55,47,37,29,18
+New York,Canandaigua,High,33,35,43,56,67,77,81,79,72,60,49,38
+New York,Canandaigua,Low,18,19,25,36,46,57,62,60,53,43,34,24
+New York,Canton,High,26,30,39,53,66,74,79,77,70,57,45,32
+New York,Canton,Low,5,8,19,33,44,54,58,56,48,37,28,15
+New York,Carmel,High,34,38,46,58,70,76,80,79,72,61,50,39
+New York,Carmel,Low,16,19,26,38,47,56,60,60,51,40,32,22
+New York,Centerport,High,37,40,48,59,69,78,82,81,73,62,53,42
+New York,Centerport,Low,24,26,31,41,50,60,66,65,59,48,39,29
+New York,Chazy,High,27,29,40,54,68,76,80,78,69,57,44,32
+New York,Chazy,Low,5,8,19,32,44,53,58,56,48,37,28,14
+New York,Cherry Valley,High,29,31,40,53,67,74,78,76,69,58,45,34
+New York,Cherry Valley,Low,11,13,22,33,44,53,58,56,49,38,29,18
+New York,Cobleskill,High,30,33,41,55,67,75,79,78,70,58,47,35
+New York,Cobleskill,Low,12,14,21,33,43,53,58,56,48,38,30,19
+New York,Colden,High,30,32,42,54,67,75,79,77,70,59,46,35
+New York,Colden,Low,13,13,21,32,42,52,56,55,48,38,30,20
+New York,Collins,High,35,37,46,60,71,79,82,81,74,62,51,38
+New York,Collins,Low,15,15,23,33,44,54,58,58,50,40,32,22
+New York,Cooperstown,High,27,31,39,53,65,73,77,75,68,56,44,32
+New York,Cooperstown,Low,14,15,23,35,45,54,58,57,50,39,31,21
+New York,Copake,High,34,37,46,59,70,78,83,82,73,61,50,38
+New York,Copake,Low,12,15,22,33,44,54,58,57,49,38,29,19
+New York,Corning,High,28,32,42,55,66,74,78,76,68,57,44,32
+New York,Corning,Low,11,13,19,30,40,50,54,53,46,35,26,17
+New York,Cortland,High,31,33,42,54,68,76,81,79,71,59,46,35
+New York,Cortland,Low,15,16,24,34,45,54,59,57,49,39,32,22
+New York,Cuba,High,31,35,44,56,68,76,79,78,70,60,47,36
+New York,Cuba,Low,11,13,20,31,40,49,54,53,46,34,28,18
+New York,Dannemora,High,26,29,38,53,65,74,78,76,68,56,42,31
+New York,Dannemora,Low,8,11,20,33,45,54,58,57,49,38,28,15
+New York,Dansville,High,33,37,45,58,70,78,82,81,74,62,50,38
+New York,Dansville,Low,16,17,24,35,45,55,59,57,50,39,32,22
+New York,Delanson,High,29,33,41,55,67,75,80,78,71,58,47,35
+New York,Delanson,Low,11,13,21,33,45,53,58,56,48,37,29,18
+New York,Delhi,High,31,34,43,55,67,75,80,78,70,60,47,35
+New York,Delhi,Low,11,12,22,32,42,51,54,53,46,35,28,18
+New York,Deposit,High,32,35,45,58,70,77,81,79,71,60,48,36
+New York,Deposit,Low,13,15,23,33,43,52,57,56,49,38,30,19
+New York,Dobbs Ferry,High,38,42,51,62,72,81,85,83,76,65,54,43
+New York,Dobbs Ferry,Low,22,24,30,39,49,58,63,62,55,44,36,27
+New York,Downsville,High,32,36,44,56,67,76,81,79,71,61,49,36
+New York,Downsville,Low,13,15,22,33,42,52,55,55,48,37,29,20
+New York,Dryden,High,30,32,42,56,67,74,78,76,69,58,46,35
+New York,Dryden,Low,12,15,22,33,42,52,56,54,47,37,29,19
+New York,Dunkirk,High,34,35,43,55,66,76,80,79,72,60,50,38
+New York,Dunkirk,Low,20,19,26,36,46,57,62,60,54,44,35,26
+New York,Eagle Bay,High,28,32,40,54,67,75,78,78,70,57,44,32
+New York,Eagle Bay,Low,6,7,16,29,40,48,53,51,44,33,26,12
+New York,East Jewett,High,31,34,41,54,65,74,78,76,69,58,47,35
+New York,East Jewett,Low,10,11,18,29,39,48,52,51,43,33,26,16
+New York,Elizabethtown,High,28,33,41,56,68,76,81,80,71,59,46,34
+New York,Elizabethtown,Low,6,7,18,31,42,51,57,54,45,34,28,14
+New York,Elka Park,High,31,34,42,54,65,73,78,77,69,57,47,35
+New York,Elka Park,Low,12,13,20,31,41,51,55,54,47,36,28,18
+New York,Elmira,High,33,36,44,58,70,78,82,81,73,61,49,37
+New York,Elmira,Low,15,17,23,34,43,53,57,56,48,37,30,21
+New York,Endicott,High,32,35,44,56,68,76,81,80,72,61,48,37
+New York,Endicott,Low,14,14,23,33,43,52,57,56,49,37,30,20
+New York,Erieville,High,27,30,39,53,65,73,76,75,68,55,44,32
+New York,Erieville,Low,11,13,21,33,43,53,56,56,49,37,29,18
+New York,Fabius,High,29,32,40,54,66,74,78,77,69,58,46,34
+New York,Fabius,Low,12,13,20,32,42,52,55,54,46,36,29,18
+New York,Falconer,High,32,35,44,57,68,76,80,79,72,60,48,36
+New York,Falconer,Low,15,15,22,33,42,52,56,55,47,38,30,21
+New York,Farmingdale,High,38,41,49,58,68,77,82,80,74,63,53,43
+New York,Farmingdale,Low,24,25,32,41,51,60,67,66,59,47,38,29
+New York,Franklin,High,31,34,42,56,67,76,80,79,71,58,47,36
+New York,Franklin,Low,11,13,20,31,41,51,55,54,47,36,29,19
+New York,Franklinville,High,30,33,41,55,66,75,78,77,70,58,46,34
+New York,Franklinville,Low,12,12,19,31,40,50,54,53,46,36,28,18
+New York,Fredonia,High,32,34,44,55,67,76,80,78,72,61,49,37
+New York,Fredonia,Low,19,19,27,37,48,57,62,61,54,44,35,25
+New York,Garden City,High,40,42,50,60,70,80,85,83,76,65,55,45
+New York,Garden City,Low,26,28,34,42,51,61,66,65,58,48,40,31
+New York,Geneva,High,31,33,41,55,67,76,80,78,71,59,47,36
+New York,Geneva,Low,16,17,25,36,47,56,61,59,52,41,33,22
+New York,Glenham,High,36,39,49,60,72,80,85,83,76,64,52,41
+New York,Glenham,Low,17,19,29,39,50,59,64,62,54,42,33,23
+New York,Glens Falls,High,29,33,42,57,68,77,81,79,71,58,47,34
+New York,Glens Falls,Low,7,10,20,33,43,52,57,55,46,35,27,16
+New York,Gloversville,High,28,31,41,55,68,76,80,78,70,58,45,33
+New York,Gloversville,Low,9,11,21,33,44,54,58,56,48,36,28,17
+New York,Gouverneur,High,26,29,39,53,65,75,79,78,70,57,45,32
+New York,Gouverneur,Low,4,5,17,32,41,52,56,54,46,35,26,13
+New York,Gowanda,High,32,35,45,57,69,77,81,79,72,61,48,37
+New York,Gowanda,Low,15,15,23,33,44,55,60,58,51,41,32,23
+New York,Grafton,High,29,31,41,54,67,74,78,76,68,57,44,33
+New York,Grafton,Low,13,15,23,34,46,54,58,57,49,39,30,19
+New York,Greenport,High,38,39,46,55,66,74,80,79,73,63,53,43
+New York,Greenport,Low,24,25,31,40,50,59,66,65,59,48,40,30
+New York,Hemlock,High,32,34,43,56,68,76,80,78,71,59,48,36
+New York,Hemlock,Low,16,17,23,35,45,55,60,58,52,41,32,23
+New York,Hinckley,High,26,29,39,52,65,73,78,76,67,56,43,31
+New York,Hinckley,Low,5,6,16,29,40,50,55,53,46,34,26,14
+New York,Honeoye,High,33,36,43,57,68,77,80,80,72,60,49,38
+New York,Honeoye,Low,16,17,23,35,44,54,59,57,50,40,32,22
+New York,Hudson,High,34,37,48,61,73,80,85,82,73,62,50,38
+New York,Hudson,Low,16,18,28,38,48,57,62,61,53,41,33,22
+New York,Indian Lake,High,25,29,37,50,63,71,74,73,66,54,42,30
+New York,Indian Lake,Low,4,6,15,28,39,49,53,52,44,33,25,12
+New York,Islip,High,39,40,49,58,69,77,83,82,75,64,54,44
+New York,Islip,Low,23,24,31,40,49,60,66,65,57,45,36,28
+New York,Ithaca,High,31,34,42,56,67,76,80,79,71,59,47,36
+New York,Ithaca,Low,15,17,23,34,44,53,58,56,49,38,32,22
+New York,Jamestown,High,32,35,44,57,68,76,80,79,72,60,48,36
+New York,Jamestown,Low,15,15,22,33,42,52,56,55,47,38,30,21
+New York,Lake Placid,High,27,32,40,54,66,74,78,76,69,56,44,32
+New York,Lake Placid,Low,5,8,16,29,39,48,53,51,44,34,25,12
+New York,Lawrenceville,High,26,29,40,54,68,76,80,78,69,58,44,31
+New York,Lawrenceville,Low,6,9,19,32,45,54,59,57,49,38,28,14
+New York,Liberty,High,30,33,42,55,65,74,78,77,69,58,47,34
+New York,Liberty,Low,13,15,22,33,42,52,57,55,47,37,29,19
+New York,Little Falls,High,31,34,44,58,71,80,84,82,74,63,48,36
+New York,Little Falls,Low,14,16,26,36,47,56,61,59,52,41,33,21
+New York,Little Valley,High,30,33,41,55,66,75,78,77,70,58,47,34
+New York,Little Valley,Low,13,13,20,31,41,51,55,54,47,37,30,20
+New York,Locke,High,27,30,38,55,65,76,77,76,68,56,44,32
+New York,Locke,Low,11,13,19,32,42,52,55,53,46,35,28,18
+New York,Lockport,High,32,35,44,57,70,78,82,80,72,60,48,37
+New York,Lockport,Low,17,18,26,35,47,56,61,60,52,42,33,23
+New York,Lowville,High,26,29,38,53,65,74,78,77,69,56,44,31
+New York,Lowville,Low,7,10,19,32,42,52,56,55,47,37,28,15
+New York,Malone,High,23,27,36,51,64,73,77,75,68,55,43,30
+New York,Malone,Low,4,6,16,32,44,54,58,55,47,36,26,13
+New York,Maryland,High,30,32,41,55,66,74,78,77,69,58,46,34
+New York,Maryland,Low,11,13,20,32,41,51,55,54,47,36,29,19
+New York,Massena,High,25,28,38,53,68,76,81,78,69,57,43,30
+New York,Massena,Low,5,7,19,33,45,53,58,56,48,37,28,13
+New York,Mastic,High,38,41,48,58,67,76,82,80,74,63,54,44
+New York,Mastic,Low,22,24,30,39,48,58,64,63,55,44,36,28
+New York,Medford,High,40,42,49,60,70,79,84,82,76,64,54,44
+New York,Medford,Low,23,25,31,39,49,59,65,64,57,45,37,28
+New York,Middletown,High,35,39,49,61,72,80,83,82,75,64,52,40
+New York,Middletown,Low,18,20,28,39,49,58,63,61,54,43,34,25
+New York,Millbrook,High,34,37,46,58,69,77,81,79,71,61,49,38
+New York,Millbrook,Low,12,14,23,33,43,51,56,55,46,34,26,18
+New York,Mineola,High,40,42,50,60,70,80,85,83,76,65,55,45
+New York,Mineola,Low,26,28,34,42,51,61,66,65,58,48,40,31
+New York,Montauk,High,38,40,46,55,64,73,79,79,72,63,53,44
+New York,Montauk,Low,26,27,32,40,49,60,65,65,59,50,41,32
+New York,Montgomery,High,35,38,47,60,71,80,84,82,74,62,51,39
+New York,Montgomery,Low,16,18,26,36,45,56,60,59,50,38,30,22
+New York,Morrisville,High,27,30,39,53,65,73,76,75,68,55,44,32
+New York,Morrisville,Low,11,13,21,33,43,53,56,56,49,37,29,18
+New York,Mount Morris,High,32,35,43,57,69,77,81,79,73,60,48,37
+New York,Mount Morris,Low,15,17,24,35,46,55,60,58,50,40,32,22
+New York,Naples,High,29,32,40,54,65,73,76,75,68,56,45,33
+New York,Naples,Low,14,16,23,35,46,56,61,59,52,41,31,20
+New York,New Paltz,High,33,37,46,60,70,78,82,80,72,61,49,37
+New York,New Paltz,Low,18,20,27,39,49,58,63,62,55,44,35,24
+New York,New York,High,39,42,50,60,71,79,85,83,76,65,54,44
+New York,New York,Low,26,29,35,44,55,64,70,69,61,50,41,32
+New York,New York-JFK Intl Arpt,High,39,42,49,59,69,78,83,82,75,65,54,44
+New York,New York-JFK Intl Arpt,Low,26,28,34,44,53,63,69,68,61,50,41,31
+New York,New York-La Guardia Arpt,High,39,42,50,61,71,80,85,84,76,65,55,44
+New York,New York-La Guardia Arpt,Low,27,29,35,44,54,64,69,69,62,51,42,32
+New York,Newcomb,High,24,28,37,50,62,71,75,73,65,53,40,28
+New York,Newcomb,Low,4,6,15,29,40,50,54,53,46,34,26,12
+New York,Niagara Falls,High,32,34,42,56,68,76,81,79,72,60,48,37
+New York,Niagara Falls,Low,15,17,24,35,45,56,61,59,51,40,31,22
+New York,Nicholville,High,26,30,40,55,68,76,80,78,71,57,45,32
+New York,Nicholville,Low,7,10,19,33,44,54,58,57,49,38,28,15
+New York,North Blenheim,High,33,35,43,56,68,77,81,80,72,61,50,38
+New York,North Blenheim,Low,11,13,22,33,43,53,57,56,49,37,29,19
+New York,North Tonawanda,High,32,36,44,56,69,78,82,80,73,60,49,37
+New York,North Tonawanda,Low,17,19,25,35,46,56,61,59,52,41,32,23
+New York,Norwich,High,32,35,44,57,69,77,81,79,72,60,48,36
+New York,Norwich,Low,11,13,20,33,41,51,55,54,47,36,28,18
+New York,Oceanside,High,38,41,48,58,67,76,81,81,75,64,54,43
+New York,Oceanside,Low,24,25,31,40,49,60,66,65,58,46,38,29
+New York,Ogdensburg,High,25,30,40,54,67,76,81,79,71,58,44,32
+New York,Ogdensburg,Low,6,8,19,33,45,54,60,57,49,39,28,15
+New York,Old Forge,High,25,28,37,50,63,71,75,73,66,54,42,30
+New York,Old Forge,Low,4,6,15,29,40,50,54,53,45,34,25,12
+New York,Oneonta,High,30,32,41,55,66,74,78,77,69,58,46,34
+New York,Oneonta,Low,11,13,20,32,41,51,55,54,47,36,29,19
+New York,Oswego,High,30,33,41,53,65,74,79,78,70,58,47,35
+New York,Oswego,Low,18,20,27,38,47,57,63,62,55,44,35,25
+New York,Patchogue,High,39,41,49,59,69,78,83,81,74,64,53,44
+New York,Patchogue,Low,22,24,31,39,49,58,64,63,56,45,37,28
+New York,Pavilion,High,31,34,43,56,68,76,81,79,72,60,49,36
+New York,Pavilion,Low,14,16,22,34,44,54,58,56,49,39,31,21
+New York,Penn Yan,High,32,34,44,56,69,77,82,80,72,60,47,37
+New York,Penn Yan,Low,14,15,23,34,45,55,60,58,50,39,31,21
+New York,Peru,High,28,32,41,56,69,77,81,79,71,58,46,33
+New York,Peru,Low,9,12,22,34,45,54,59,57,49,38,29,17
+New York,Phoenicia,High,26,29,37,49,61,68,72,71,64,54,42,31
+New York,Phoenicia,Low,12,13,20,32,42,51,55,54,47,37,28,18
+New York,Plattsburgh,High,26,29,39,53,66,75,80,77,68,56,44,32
+New York,Plattsburgh,Low,8,9,21,34,45,55,60,58,49,38,29,16
+New York,Port Jervis,High,34,38,48,61,72,79,83,81,73,62,50,38
+New York,Port Jervis,Low,15,17,25,35,45,54,59,58,50,38,30,21
+New York,Poughkeepsie,High,34,38,47,59,70,78,84,82,74,62,51,39
+New York,Poughkeepsie,Low,15,16,26,36,46,55,60,59,50,38,30,21
+New York,Ray Brook,High,26,29,38,51,65,73,78,76,67,55,42,30
+New York,Ray Brook,Low,3,3,13,27,38,48,52,50,42,33,24,11
+New York,Riverhead,High,39,41,48,60,70,79,83,82,75,64,54,44
+New York,Riverhead,Low,25,27,33,41,51,60,66,65,59,49,40,31
+New York,Rochester,High,32,34,43,56,68,77,81,79,72,60,48,37
+New York,Rochester,Low,18,19,26,37,46,56,61,60,52,42,33,24
+New York,Rock Hill,High,33,34,46,56,70,76,80,80,72,60,48,37
+New York,Rock Hill,Low,13,11,20,30,43,54,58,57,48,37,28,19
+New York,Rome,High,29,33,41,56,68,76,80,78,71,58,47,35
+New York,Rome,Low,10,12,21,34,43,54,58,57,49,39,31,19
+New York,Salamanca,High,33,35,44,57,69,78,81,80,73,60,49,37
+New York,Salamanca,Low,12,13,20,31,40,50,54,52,45,35,27,19
+New York,Salem,High,31,34,44,58,70,78,82,80,72,60,47,36
+New York,Salem,Low,9,11,22,33,43,52,56,54,45,35,28,17
+New York,Saratoga Springs,High,31,35,45,60,72,80,83,82,74,61,48,36
+New York,Saratoga Springs,Low,13,15,24,36,46,55,60,58,50,39,31,20
+New York,Scarsdale,High,39,43,51,63,74,82,86,84,76,65,55,44
+New York,Scarsdale,Low,20,22,29,38,47,57,62,61,53,41,35,26
+New York,Sherburne,High,30,33,41,55,68,76,80,78,71,59,47,35
+New York,Sherburne,Low,11,13,20,32,42,52,56,55,47,36,29,19
+New York,Sodus,High,33,35,44,57,69,78,82,80,73,61,49,37
+New York,Sodus,Low,18,19,26,37,46,56,61,60,53,42,33,24
+New York,South Wales,High,30,33,41,55,66,74,78,77,69,58,47,35
+New York,South Wales,Low,15,15,22,33,43,53,57,56,49,39,31,21
+New York,Spencer,High,31,34,44,56,68,77,81,80,72,60,47,36
+New York,Spencer,Low,10,11,20,31,40,50,54,53,45,34,27,17
+New York,Staatsburg,High,35,39,48,60,71,80,85,83,75,63,52,40
+New York,Staatsburg,Low,9,13,21,31,42,52,56,55,46,34,26,16
+New York,Stanfordville,High,34,38,46,58,70,78,83,80,73,62,50,39
+New York,Stanfordville,Low,13,14,24,34,43,53,57,56,48,35,27,18
+New York,Stormville,High,33,38,48,60,71,78,82,81,74,62,49,38
+New York,Stormville,Low,16,18,27,37,48,57,62,60,53,42,32,22
+New York,Suffern,High,36,39,49,60,71,79,84,82,75,64,53,41
+New York,Suffern,Low,18,20,29,39,48,57,62,61,53,41,33,24
+New York,Syracuse,High,32,35,42,57,69,78,82,80,73,60,49,37
+New York,Syracuse,Low,17,18,26,37,47,58,63,61,54,43,34,23
+New York,Troy,High,32,35,45,59,71,79,84,82,74,62,50,37
+New York,Troy,Low,14,17,25,37,48,58,63,61,52,41,32,22
+New York,Tully,High,26,28,37,50,63,71,76,74,66,55,42,31
+New York,Tully,Low,10,11,20,32,43,52,56,55,47,37,27,17
+New York,Tupper Lake,High,25,29,37,51,64,73,77,75,67,55,42,30
+New York,Tupper Lake,Low,3,5,14,29,40,49,53,52,44,34,24,11
+New York,Utica,High,29,31,41,54,68,76,80,78,70,58,45,34
+New York,Utica,Low,32,35,44,57,71,79,83,81,73,61,48,37
+New York,Valatie,High,31,33,43,56,68,76,81,78,71,59,47,36
+New York,Valatie,Low,12,14,24,35,45,54,59,57,49,37,30,19
+New York,Walden,High,34,37,46,59,69,78,83,81,74,62,51,39
+New York,Walden,Low,15,17,26,36,46,56,60,59,50,38,31,21
+New York,Walton,High,31,34,44,57,69,77,81,79,71,60,47,35
+New York,Walton,Low,13,14,23,33,43,51,56,55,48,37,29,19
+New York,Wanakena,High,25,28,38,51,65,73,77,75,66,55,42,31
+New York,Wanakena,Low,2,3,14,28,40,49,54,52,44,33,24,10
+New York,Wantagh,High,39,41,48,58,67,77,82,82,75,64,54,44
+New York,Wantagh,Low,26,28,33,42,51,61,67,66,59,48,40,31
+New York,Warsaw,High,27,30,38,51,63,72,76,75,67,56,44,32
+New York,Warsaw,Low,13,14,21,33,43,53,57,56,49,38,29,19
+New York,Watertown,High,28,31,40,54,66,75,80,78,71,58,47,34
+New York,Watertown,Low,9,11,22,35,47,56,61,60,52,40,30,18
+New York,Waverly,High,33,36,46,58,70,78,83,81,72,61,48,38
+New York,Waverly,Low,13,15,22,32,43,52,57,55,48,36,29,20
+New York,Wellesley Island,High,28,31,41,55,67,76,81,79,71,59,47,34
+New York,Wellesley Island,Low,9,10,20,33,44,54,58,57,49,39,30,18
+New York,Wellsville,High,29,32,41,54,65,73,77,75,67,57,44,32
+New York,Wellsville,Low,15,17,23,35,44,52,57,56,49,38,31,20
+New York,West Nyack,High,29,33,41,54,63,72,76,74,67,55,44,33
+New York,West Nyack,Low,11,12,20,31,40,49,55,53,46,35,26,17
+New York,West Point,High,35,39,48,61,71,80,85,83,75,62,51,40
+New York,West Point,Low,20,22,29,40,50,59,64,63,55,44,36,26
+New York,Westfield,High,34,36,46,57,69,78,82,79,72,61,49,39
+New York,Westfield,Low,19,19,27,37,49,58,63,62,55,45,35,25
+New York,Westhampton,High,38,40,47,57,66,75,81,80,73,63,54,44
+New York,Westhampton,Low,19,20,26,35,45,56,61,61,52,41,33,24
+New York,Whitehall,High,31,35,45,60,72,81,85,82,74,61,48,36
+New York,Whitehall,Low,11,13,23,36,47,56,60,59,51,40,31,20
+New York,Whitney Point,High,32,35,42,55,68,76,80,79,72,60,49,37
+New York,Whitney Point,Low,12,14,22,32,42,52,57,55,47,37,29,19
+New York,Willsboro,High,28,31,40,54,66,75,81,78,71,57,47,35
+New York,Willsboro,Low,10,12,21,35,46,56,61,59,51,39,30,19
+New York,Yorktown Heights,High,35,38,47,59,69,78,82,81,73,62,51,40
+New York,Yorktown Heights,Low,19,21,29,39,49,58,63,62,54,43,35,25
+New York,Youngstown,High,32,35,43,56,67,76,82,80,73,61,49,38
+New York,Youngstown,Low,18,19,25,35,45,57,62,60,53,43,33,24
